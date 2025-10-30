@@ -1,1 +1,1 @@
-local: This is Github lab homework3
+This is Github lab homework3
